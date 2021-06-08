@@ -1,0 +1,10 @@
+C:\Users\Hengel\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\ProvaAdmissionalCSharpApisul.exe.config
+C:\Users\Hengel\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\ProvaAdmissionalCSharpApisul.exe
+C:\Users\Hengel\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\ProvaAdmissionalCSharpApisul.pdb
+C:\Users\Hengel\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hengel\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hengel\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\ProvaAdmissionalCSharpApisul.csprojAssemblyReference.cache
+C:\Users\Hengel\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\ProvaAdmissionalCSharpApisul.csproj.CoreCompileInputs.cache
+C:\Users\Hengel\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\ProvaAdmissionalCSharpApisul.csproj.CopyComplete
+C:\Users\Hengel\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\ProvaAdmissionalCSharpApisul.exe
+C:\Users\Hengel\source\repos\ProvaAdmissionalCSharpApisul\ProvaAdmissionalCSharpApisul\obj\Debug\ProvaAdmissionalCSharpApisul.pdb
